@@ -1,0 +1,42 @@
+/* CSS Document */
+.nav-item {background-color: #E4A30D; 
+		   height: 40px;}
+
+
+.h1-text-more {text-align: center;
+color: #E4A30D;
+background-color: #AD9204;
+background-image: url("../images/Header-Restaurant.jpg");
+height: 200px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.h1-text{margin: auto;
+width: 50%;
+padding: 70px;
+font-family: 'Dancing Script', cursive;}
+
+.nav-link{color: #000000}
+
+.mybody {background-color: #C7A800}
+
+.text-under {border: thick;
+border-style: solid;
+border-width: 3px;
+margin-top: 20px;
+margin-bottom: 20px;
+background-color: #E4A30D;
+color: #000000;
+padding: 10px}
+
+.text-google {font-family: 'Dancing Script', cursive;
+font-size: 40px}
+
+.text-google-2 {font-family: 'Dancing Script', cursive;
+font-size: 25px}
+
+.text-google-more {font-family: 'Dancing Script', cursive;
+font-size:20px}
+.display-4 {font-family: 'Dancing Script', cursive;}
+.lead {font-family: 'Dancing Script', cursive;}
